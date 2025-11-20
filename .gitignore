@@ -1,0 +1,24 @@
+# Quartus / ModelSim cache & build dirs
+db/
+incremental_db/
+output_files/
+simulation/
+work/
+__modelsim/
+transcript
+*.wlf
+
+# Backup
+*.bak
+*.vhd.bak
+*.vhdl.bak
+
+# Hex generated
+*.hex
+
+# Temp files
+*.tmp
+*.log
+
+# Windows
+Thumbs.db
