@@ -38,7 +38,7 @@ begin
             dataWidth  => DATA_WIDTH_C,
             addrWidth  => ADDR_WIDTH_C,
             memDepth   => MEM_DEPTH_C,
-            memoryFile => "load_03.hex"
+            memoryFile => "C:/RISCV_SoC/simulation/modelsim/load_03.hex"
         )
         port map (
             clk   => clk_t,
